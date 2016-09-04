@@ -1,26 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-24T13:16:19.637Z'
-dateModified: '2016-01-24T13:16:08.544Z'
-title: the red ridding hood
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-09-01T19:01:22.239Z'
 sourcePath: _posts/2016-01-24-the-red-ridding-hood.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-09-01T19:01:21.184Z'
+title: the red ridding hood
+publisher: {}
+description: The wolves
+inLanguage: null
+inNav: false
+starred: false
 url: the-red-ridding-hood/index.html
 _type: Article
 
 ---
-illustration \#1
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea52ed57-d124-495b-98eb-b0d16f4ff34c.jpg)
+## the red ridding hood
+![The wolves](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31be1ee8029bb8814e97c81973f9baa589f83e65.jpg)
