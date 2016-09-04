@@ -4,7 +4,7 @@
         <description><![CDATA[ILLUSTRATOR /  DESIGNER]]></description>
         <link>https://thegrid.ai/ystilos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 19:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 21:24:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ystilos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Wolves]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/ystilos/baobap/index.html</link>
             <guid isPermaLink="false">a948ab28-4efa-4be3-9125-d2393a9079ab</guid>
             <pubDate>Thu, 01 Sep 2016 18:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello grid]]></title>
-            <description><![CDATA[<article><h1>Hello grid</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/907f0b9d-06da-406c-9729-372dca7dcbac.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ystilos/my-first-post/index.html</link>
-            <guid isPermaLink="false">72de9255-24b6-43f3-b7c7-0c3b29145482</guid>
-            <pubDate>Wed, 30 Mar 2016 13:10:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
