@@ -4,8 +4,15 @@
         <description><![CDATA[ILLUSTRATOR /  DESIGNER]]></description>
         <link>https://thegrid.ai/ystilos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 19:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 19:01:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ystilos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the red ridding hood]]></title>
+            <description><![CDATA[<article><h1>the red ridding hood</h1><p>The wolves</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31be1ee8029bb8814e97c81973f9baa589f83e65.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ystilos/the-red-ridding-hood/index.html</link>
+            <guid isPermaLink="false">696723bb-a697-4503-9cf3-dbbd24ac6bc6</guid>
+            <pubDate>Thu, 01 Sep 2016 19:01:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ac117c3-ccbb-44a5-b65b-fb07bca0d27d.jpg" alt="Hellboy">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/ystilos/my-first-post/index.html</link>
             <guid isPermaLink="false">72de9255-24b6-43f3-b7c7-0c3b29145482</guid>
             <pubDate>Wed, 30 Mar 2016 13:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the red ridding hood]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea52ed57-d124-495b-98eb-b0d16f4ff34c.jpg">]]></description>
-            <link>https://thegrid.ai/ystilos/the-red-ridding-hood/index.html</link>
-            <guid isPermaLink="false">696723bb-a697-4503-9cf3-dbbd24ac6bc6</guid>
-            <pubDate>Sun, 24 Jan 2016 13:16:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
